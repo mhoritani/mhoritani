@@ -1,6 +1,6 @@
 # Marvin Horitani - @mhoritani
 
-👉 Currently Design Systems Tech Lead @redbull
+👉 Engineering Manager for Design Systems & Global Embeds/Video Player @redbull
 
 <p align="left">
   <a href="https://www.linkedin.com/in/marvin-horitani/">
