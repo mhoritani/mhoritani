@@ -1,6 +1,6 @@
 # Marvin Horitani - @mhoritani
 
-👉 Engineering Manager for Design Systems & Global Embeds/Video Player @redbull
+👉 Engineering Manager Frontend Platform @redbullmediahouse
 
 <p align="left">
   <a href="https://www.linkedin.com/in/marvin-horitani/">
